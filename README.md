@@ -1,5 +1,3 @@
-# Simple-IDS-Intrusion-Detection-System-
-Hello
 # 🔐 Simple IDS(Intrusion Detection System)
 
 > A Cybersecurity Project developed as part of the Cybersecurity Training Program at UNISOFT TECHNOLOGIES, Nagpur.
